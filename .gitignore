@@ -1,0 +1,41 @@
+# Windows ignore
+# thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+# folder config file
+[Dd]esktop.ini
+# recycle bin
+$RECYCLE.BIN/
+# shortcuts
+*.lnk
+
+# Linux ignore
+*~
+# temporary files
+.fuse_hidden*
+# linux trash
+.Trash-*
+# .nfs files
+.nfs*
+
+# Vim ignore
+# swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+# session
+Session.vim
+Sessionx.vim
+# temp
+.netrwhist
+*~
+# tag files
+tags
+# persistent undo
+[._]*.un~
+
